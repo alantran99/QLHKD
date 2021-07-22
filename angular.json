@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "qlhkd"
+    }
+  },
+  "defaultProject": "qlhkd",
+  "cli": {
+    "analytics": "af348845-0adf-44fa-ae2e-7df2689c9821"
+  }
 }
